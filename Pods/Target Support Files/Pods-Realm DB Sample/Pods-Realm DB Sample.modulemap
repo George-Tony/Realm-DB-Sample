@@ -1,0 +1,6 @@
+framework module Pods_Realm_DB_Sample {
+  umbrella header "Pods-Realm DB Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
